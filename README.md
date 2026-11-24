@@ -2,6 +2,8 @@
 
 Aplicación web en un único archivo HTML con estética de libreta mensual cuadriculada para registrar hábitos diarios, escribir una nota por día, visualizar tu progreso y reflexionar al final de cada mes.
 
+🔗 **Pruébalo aquí:** [https://peran25.github.io/Habit-Tracker/](https://peran25.github.io/Habit-Tracker/)
+
 ## Características
 
 * **Libreta mensual interactiva:** Cambia entre meses con los botones `‹` y `›`, con resalte para fines de semana y para el día actual.
@@ -17,6 +19,16 @@ Aplicación web en un único archivo HTML con estética de libreta mensual cuadr
 
 ## Cómo usarlo
 
-1. Clona el repositorio en tu equipo:
-   ```bash
-   git clone [https://github.com/Peran25/Habit-Tracker.git](https://github.com/Peran25/Habit-Tracker.git)
+* **Online:** Accede directamente a [https://peran25.github.io/Habit-Tracker/](https://peran25.github.io/Habit-Tracker/) desde cualquier navegador o dispositivo.
+* **En local:**
+  1. Clona el repositorio en tu equipo:
+     ```bash
+     git clone [https://github.com/Peran25/Habit-Tracker.git](https://github.com/Peran25/Habit-Tracker.git)
+     ```
+  2. Entra en la carpeta del proyecto y abre `index.html` en tu navegador.
+
+## Tecnologías
+
+* **HTML5**
+* **CSS3** (variables CSS, cuadrícula, diseño adaptable a móviles y modo oscuro)
+* **JavaScript (Vanilla)**, **SVG** y **Web APIs** (`localStorage`, `IndexedDB`, File System Access API)
