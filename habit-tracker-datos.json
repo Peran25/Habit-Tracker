@@ -1,0 +1,53 @@
+{
+  "habits": [
+    {
+      "id": "h1",
+      "name": "Leer"
+    },
+    {
+      "id": "h2",
+      "name": "Estudiar Carnet"
+    },
+    {
+      "id": "h3",
+      "name": "Correr"
+    },
+    {
+      "id": "h4",
+      "name": "Boxeo"
+    },
+    {
+      "id": "h5",
+      "name": "Rezar"
+    }
+  ],
+  "months": {
+    "2026-11": {
+      "checks": {
+        "h2": [],
+        "h1": [],
+        "h3": [],
+        "h4": [],
+        "h5": [],
+        "h1795536621222": []
+      },
+      "diary": {},
+      "hardest": "",
+      "why": "",
+      "notes": ""
+    },
+    "2026-12": {
+      "checks": {
+        "h1": [],
+        "h2": [],
+        "h3": [],
+        "h4": [],
+        "h5": []
+      },
+      "diary": {},
+      "hardest": "",
+      "why": "",
+      "notes": ""
+    }
+  }
+}
